@@ -11,7 +11,7 @@ I'm passionate about solving technical problems, learning new technologies, and 
 - **Operating Systems:** Windows 11, Fedora Linux, Raspberry Pi OS
 - **Networking:** TCP/IP, Network Troubleshooting, SSH
 - **IT Administration:** Linux Administration, Windows Server, Active Directory (learning)
-- **Tools:** GitHub, TestRail, Microsoft Office
+- **Tools:** GitHub, Testmo, Microsoft Office
 
 ## Current Projects
 
